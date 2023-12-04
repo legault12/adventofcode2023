@@ -1,7 +1,9 @@
 # Advent of Code 2023 Solutions
 
+https://adventofcode.com/2023
+
 ## Introduction
-Welcome to my Advent of Code 2023 repository! Here, I tackle a variety of challenging programming puzzles that require ingenuity and a keen understanding of data manipulation and algorithmic problem-solving. These challenges are solved using [insert your primary programming language(s)], demonstrating practical applications of regular expressions, data parsing, and logical reasoning.
+Welcome to my Advent of Code 2023 repository! Here, I tackle a variety of challenging programming puzzles that require ingenuity and a keen understanding of data manipulation and algorithmic problem-solving. These challenges are solved using Python, demonstrating practical applications of regular expressions, data parsing, and logical reasoning.
 
 ## Repository Structure
 This repository is organized by day, each folder containing:
